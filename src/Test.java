@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("trying to commit this to github.");
 		System.out.println("This is another commit");
 		System.out.println("This is another commit");
+		System.out.println("This is another commit");
 
 	}
 
